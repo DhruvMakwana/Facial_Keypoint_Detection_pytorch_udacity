@@ -70,7 +70,6 @@ All of the data you'll need to train a neural network is in the P1_Facial_Keypoi
 
 1. Navigate back to the repo. (Also, your source environment should still be activated at this point.)
 ```shell
-cd
 cd P1_Facial_Keypoints
 ```
 
